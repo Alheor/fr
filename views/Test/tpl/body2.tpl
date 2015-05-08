@@ -1,0 +1,1 @@
+<!--#body#--><img src="<?php echo $_link->img('bb.jpg');?>">asd</a><!--#body_end#-->
